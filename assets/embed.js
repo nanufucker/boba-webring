@@ -12,7 +12,7 @@ function maybeReplaceStyle() {
 }
 
 function goToRandomSite() {
-  return fetch("sites.json")
+  return fetch("/sites.json")
     .then(r => r.json())
     .then(sites => {
       const thisUri = document.head.querySelector('meta[name="site-uri"]').content;

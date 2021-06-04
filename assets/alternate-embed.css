@@ -1,9 +1,8 @@
 body {
-  background-color: transparent;
+  background-color: #eee;
   margin: 0;
   padding: 5px;
   font-family: monospace;
-  box-shadow: 0px 0px 0 1px inset black;
 
 }
 
@@ -45,10 +44,9 @@ body {
 
 @media (prefers-color-scheme: dark) {
   a, .link, .link:visited {
-    color: #8cc2dd;
+    color: #4070a0;
   }
   body {
-    box-shadow:0px 0px 0 1px inset #eee;
     color: #eee;
 
   }

@@ -42,3 +42,12 @@ body {
 .webring-name {
   font-style: italic;
 }
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #8cc2dd;
+  }
+  body {
+    box-shadow: white;
+  }
+}

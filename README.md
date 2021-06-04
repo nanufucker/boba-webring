@@ -1,5 +1,7 @@
 # Too Many Webrings!
 
+Forked from [TooManyBees/ring](https://github.com/TooManyBees/ring):
+
 ## Visit the live page here: [tfering-jekyll](https://nanufucker.github.io/tfering-jekyll/)
 
 Original readme from [TooManyBees/ring](https://github.com/TooManyBees/ring):

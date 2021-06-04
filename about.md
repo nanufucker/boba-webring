@@ -60,3 +60,5 @@ If the styling isn't your thing, use your own css by appending the `stylesheet` 
 # Manual Implementations
 
 The list of all member sites is available in JSON at the page [sites.json]({{"/sites.json" | absolute_url}}), for sites that would rather construct their embeds themselves.
+
+[Return home ↵](../)

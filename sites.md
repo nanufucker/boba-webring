@@ -7,3 +7,5 @@ permalink: /sites
 {% for website in websites %}
   [{{website.title}}]({{website.uri}}) {{website.desc}}
 {% endfor %}
+
+[Return home ↵](../)

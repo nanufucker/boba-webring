@@ -49,5 +49,6 @@ body {
   }
   body {
     box-shadow:0px 0px 0 1px inset white;
+    color: white;
   }
 }

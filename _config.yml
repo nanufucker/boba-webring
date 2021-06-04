@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Too Many Webrings!
+title: TFE Webring!
 description: >- # this means to ignore newlines until "baseurl:"
   A prototype for a GitHub Pages-based static web ring!
 baseurl: /tfering-jekyll # For GitHub Pages's default url, this is the name of your repo

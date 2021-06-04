@@ -16,7 +16,7 @@
 title: Too Many Webrings!
 description: >- # this means to ignore newlines until "baseurl:"
   A prototype for a GitHub Pages-based static web ring!
-baseurl: /ring # For GitHub Pages's default url, this is the name of your repo
+baseurl: /tfering-jekyll # For GitHub Pages's default url, this is the name of your repo
 url: https://nanufucker.github.io
 
 # Build settings

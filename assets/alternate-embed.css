@@ -3,6 +3,8 @@ body {
   margin: 0;
   padding: 5px;
   font-family: monospace;
+  box-shadow: 0px 0px 0 1px inset black;
+
 }
 
 .badge {
@@ -21,8 +23,8 @@ body {
 
 .link{
   margin: .5em;
-  padding: .5em;
-  border: 1px solid #ffcc00;
+  padding: .5em .75em;
+  border: 2px solid #ffcc00;
   color: #3273dc;
   text-decoration-color: #ffcc00;
 }
@@ -34,6 +36,7 @@ body {
 
 .site-name {
   font-style: italic;
+  font-weight: bold;
 }
 
 .webring-name {

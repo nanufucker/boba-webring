@@ -8,4 +8,4 @@ permalink: /sites
   [{{website.title}}]({{website.uri}}) {{website.desc}}
 {% endfor %}
 
-[Return home ↵](../)
+[Return home ↵](/)

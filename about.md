@@ -27,19 +27,19 @@ where `date` is the day you're making the new file request. Be careful not to mi
 Each member site gets an embed page generated for them. After your pull request is approved and merged, add the embed to your site with the markup:
 
 ```
-<iframe src="{{'/sites/toomanybees' | absolute_url}}">
+<iframe src="{{'/sites/haddock' | absolute_url}}">
 </iframe>
 <script src="{{'/assets/parent.js' | absolute_url }}"></script>
 ```
 
-replacing `toomanybees` with the name of the file you added. The `parent.js` script is unnecessary if you plan to size the iframe appropriately. It'll look like this:
+replacing `haddock` with the name of the file you added. The `parent.js` script is unnecessary if you plan to size the iframe appropriately. It'll look like this:
 
 <style type="text/css">
   iframe {
     border: none;
   }
 </style>
-<iframe src="{{'/sites/toomanybees' | absolute_url}}">
+<iframe src="{{'/sites/haddock' | absolute_url}}">
 </iframe>
 <script src="{{'/assets/parent.js' | absolute_url}}"></script>
 
@@ -48,12 +48,12 @@ replacing `toomanybees` with the name of the file you added. The `parent.js` scr
 If lavender isn't your thing, use your own css by appending the `stylesheet` query string param to the iframe's src attribute.
 
 ```
-<iframe src="{{'/sites/toomanybees' | absolute_url}}?stylesheet={{'/assets/alternate-embed.css' | absolute_url}}">
+<iframe src="{{'/sites/haddock' | absolute_url}}?stylesheet={{'/assets/alternate-embed.css' | absolute_url}}">
 </iframe>
 <script src="{{'/assets/parent.js' | absolute_url}}"></script>
 ```
 
-<iframe src="{{'/sites/toomanybees' | absolute_url}}?stylesheet={{'/assets/alternate-embed.css' | absolute_url}}">
+<iframe src="{{'/sites/haddock' | absolute_url}}?stylesheet={{'/assets/alternate-embed.css' | absolute_url}}">
 </iframe>
 <script src="{{'/assets/parent.js' | absolute_url}}"></script>
 

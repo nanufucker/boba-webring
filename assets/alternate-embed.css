@@ -44,7 +44,7 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-  a, .link {
+  a, .link, .link:visited {
     color: #8cc2dd;
   }
   body {

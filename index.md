@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to {{site.title}} webring: presently a tech demo for a webring hosted on GitHub pages.
+Welcome to the {{site.title}} webring: presently a tech demo for a webring hosted on GitHub pages.
 
 Here are the [list of member sites]({{'/sites' | relative_url}}).
 

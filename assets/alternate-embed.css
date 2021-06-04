@@ -11,7 +11,7 @@ body {
 }
 
 .badge::before,.badge::after {
-  content: " 🪐 ";
+  content: " 🥤 ";
 }
 
 .links {

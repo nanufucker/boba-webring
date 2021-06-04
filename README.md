@@ -2,7 +2,7 @@
 
 Forked from [TooManyBees/ring](https://github.com/TooManyBees/ring):
 
-## Visit the live page here: [tfering-jekyll](https://nanufucker.github.io/tfering-jekyll/)
+## Visit the live page here: [boba-webring](https://nanufucker.github.io/boba-webring/)
 
 Original readme from [TooManyBees/ring](https://github.com/TooManyBees/ring):
 

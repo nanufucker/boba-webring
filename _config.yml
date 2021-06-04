@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TFE Webring!
+title: Boba
 description: >- # this means to ignore newlines until "baseurl:"
   A prototype for a GitHub Pages-based static web ring!
-baseurl: /tfering-jekyll # For GitHub Pages's default url, this is the name of your repo
+baseurl: /boba-webring # For GitHub Pages's default url, this is the name of your repo
 url: https://nanufucker.github.io
 
 # Build settings
@@ -53,5 +53,5 @@ defaults:
 
 # Webring contribution
 
-repository: https://github.com/nanufucker/tfering-jekyll
-new_site_url: https://github.com/nanufucker/tfering-jekyll/new/master/_websites
+repository: https://github.com/nanufucker/boba-webring
+new_site_url: https://github.com/nanufucker/boba-webring/new/master/_websites

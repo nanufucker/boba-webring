@@ -44,7 +44,7 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-  a {
+  a, .link {
     color: #8cc2dd;
   }
   body {

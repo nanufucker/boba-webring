@@ -45,7 +45,7 @@ replacing `haddock` with the name of the file you added. The `parent.js` script 
 
 # Custom CSS
 
-If lavender isn't your thing, use your own css by appending the `stylesheet` query string param to the iframe's src attribute.
+If the styling isn't your thing, use your own css by appending the `stylesheet` query string param to the iframe's src attribute.
 
 ```
 <iframe src="{{'/sites/haddock' | absolute_url}}?stylesheet={{'/assets/alternate-embed.css' | absolute_url}}">

@@ -21,7 +21,7 @@ url: https://nanufucker.github.io
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote-theme: riggraz/no-style-please
 # plugins:
 #   - jekyll-feed
 

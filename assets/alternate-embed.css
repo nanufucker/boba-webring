@@ -21,9 +21,10 @@ body {
 
 .link{
   margin: .5em;
-  padding: .5empx;
-  border: 4px solid #ffcc00;
+  padding: .5em;
+  border: 1px solid #ffcc00;
   color: #3273dc;
+  text-decoration-color: #ffcc00;
 }
 
 .link:visited {

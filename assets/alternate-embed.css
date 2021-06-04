@@ -23,14 +23,18 @@ body {
 .link{
   margin: .5em;
   padding: .5em .75em;
-  border: 2px solid #ffcc00;
   color: #3273dc;
   text-decoration-color: #ffcc00;
+  background-color: #ffcc00;
 }
 
 .link:visited {
   border-color: #000;
   color: #3273dc;
+}
+
+.link:hover {
+  color: black;
 }
 
 .site-name {
@@ -40,17 +44,4 @@ body {
 
 .webring-name {
   font-style: italic;
-}
-
-@media (prefers-color-scheme: dark) {
-  a, .link, .link:visited {
-    color: #4070a0;
-  }
-  body {
-    color: #eee;
-
-  }
-  .link:visited{
-    border-color: #eee;
-  }
 }

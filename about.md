@@ -46,6 +46,7 @@ replacing `haddock` with the name of the file you added. The `parent.js` script 
 # Custom CSS
 
 If the styling isn't your thing, use your own css by appending the `stylesheet` query string param to the iframe's src attribute.
+
 If you want to have custom fonts, please upload the stylesheet to the repository [here](https://github.com/nanufucker/boba-webring/tree/main/assets) by making a pull request!
 
 ```

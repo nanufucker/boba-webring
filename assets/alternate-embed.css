@@ -8,6 +8,7 @@ body {
 
 .badge {
   text-align: center;
+  margin-block: 0.5em;
 }
 
 .badge::before,.badge::after {
